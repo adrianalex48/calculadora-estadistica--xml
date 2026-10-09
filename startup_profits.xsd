@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="startups">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="startup" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="rd_spend" type="xs:decimal"/>
+              <xs:element name="administration" type="xs:decimal"/>
+              <xs:element name="marketing_spend" type="xs:decimal"/>
+              <xs:element name="state" type="xs:string"/>
+              <xs:element name="profit" type="xs:decimal"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:positiveInteger" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

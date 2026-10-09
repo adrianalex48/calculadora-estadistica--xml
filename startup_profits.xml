@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<startups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="startup_profits.xsd">
+  <startup id="1">
+    <rd_spend>165349.2</rd_spend>
+    <administration>136897.8</administration>
+    <marketing_spend>471784.1</marketing_spend>
+    <state>New York</state>
+    <profit>192261.83</profit>
+  </startup>
+  <startup id="2">
+    <rd_spend>162597.7</rd_spend>
+    <administration>151377.59</administration>
+    <marketing_spend>443898.53</marketing_spend>
+    <state>California</state>
+    <profit>191792.06</profit>
+  </startup>
+  <startup id="3">
+    <rd_spend>153441.51</rd_spend>
+    <administration>101145.55</administration>
+    <marketing_spend>407934.54</marketing_spend>
+    <state>India</state>
+    <profit>191050.39</profit>
+  </startup>
+  <startup id="4">
+    <rd_spend>144372.41</rd_spend>
+    <administration>118671.85</administration>
+    <marketing_spend>383199.62</marketing_spend>
+    <state>New York</state>
+    <profit>182901.99</profit>
+  </startup>
+  <startup id="5">
+    <rd_spend>142107.34</rd_spend>
+    <administration>91391.77</administration>
+    <marketing_spend>366168.42</marketing_spend>
+    <state>India</state>
+    <profit>166187.94</profit>
+  </startup>
+  <startup id="6">
+    <rd_spend>131876.9</rd_spend>
+    <administration>99814.71</administration>
+    <marketing_spend>362861.36</marketing_spend>
+    <state>New York</state>
+    <profit>156991.12</profit>
+  </startup>
+  <startup id="7">
+    <rd_spend>134615.46</rd_spend>
+    <administration>147198.87</administration>
+    <marketing_spend>127716.82</marketing_spend>
+    <state>California</state>
+    <profit>156122.51</profit>
+  </startup>
+  <startup id="8">
+    <rd_spend>130298.13</rd_spend>
+    <administration>145530.06</administration>
+    <marketing_spend>323876.68</marketing_spend>
+    <state>India</state>
+    <profit>155752.6</profit>
+  </startup>
+  <startup id="9">
+    <rd_spend>120542.52</rd_spend>
+    <administration>148718.95</administration>
+    <marketing_spend>311613.29</marketing_spend>
+    <state>New York</state>
+    <profit>152211.77</profit>
+  </startup>
+  <startup id="10">
+    <rd_spend>123334.88</rd_spend>
+    <administration>108679.17</administration>
+    <marketing_spend>304981.62</marketing_spend>
+    <state>California</state>
+    <profit>149759.96</profit>
+  </startup>
+  <startup id="11">
+    <rd_spend>101913.08</rd_spend>
+    <administration>110594.11</administration>
+    <marketing_spend>229160.95</marketing_spend>
+    <state>India</state>
+    <profit>146121.95</profit>
+  </startup>
+  <startup id="12">
+    <rd_spend>100671.96</rd_spend>
+    <administration>91790.61</administration>
+    <marketing_spend>249744.55</marketing_spend>
+    <state>California</state>
+    <profit>144259.4</profit>
+  </startup>
+  <startup id="13">
+    <rd_spend>93863.75</rd_spend>
+    <administration>127320.38</administration>
+    <marketing_spend>249839.44</marketing_spend>
+    <state>India</state>
+    <profit>141585.52</profit>
+  </startup>
+  <startup id="14">
+    <rd_spend>91992.39</rd_spend>
+    <administration>135495.07</administration>
+    <marketing_spend>252664.93</marketing_spend>
+    <state>California</state>
+    <profit>134307.35</profit>
+  </startup>
+  <startup id="15">
+    <rd_spend>119943.24</rd_spend>
+    <administration>156547.42</administration>
+    <marketing_spend>256512.92</marketing_spend>
+    <state>India</state>
+    <profit>132602.65</profit>
+  </startup>
+  <startup id="16">
+    <rd_spend>114523.61</rd_spend>
+    <administration>122616.84</administration>
+    <marketing_spend>261776.23</marketing_spend>
+    <state>New York</state>
+    <profit>129917.04</profit>
+  </startup>
+  <startup id="17">
+    <rd_spend>78013.11</rd_spend>
+    <administration>121597.55</administration>
+    <marketing_spend>264346.06</marketing_spend>
+    <state>California</state>
+    <profit>126992.93</profit>
+  </startup>
+  <startup id="18">
+    <rd_spend>94657.16</rd_spend>
+    <administration>145077.58</administration>
+    <marketing_spend>282574.31</marketing_spend>
+    <state>New York</state>
+    <profit>125370.37</profit>
+  </startup>
+  <startup id="19">
+    <rd_spend>91749.16</rd_spend>
+    <administration>114175.79</administration>
+    <marketing_spend>294919.57</marketing_spend>
+    <state>India</state>
+    <profit>124266.9</profit>
+  </startup>
+  <startup id="20">
+    <rd_spend>86419.7</rd_spend>
+    <administration>153514.11</administration>
+    <marketing_spend>0</marketing_spend>
+    <state>New York</state>
+    <profit>122776.86</profit>
+  </startup>
+  <startup id="21">
+    <rd_spend>76253.86</rd_spend>
+    <administration>113867.3</administration>
+    <marketing_spend>298664.47</marketing_spend>
+    <state>California</state>
+    <profit>118474.03</profit>
+  </startup>
+  <startup id="22">
+    <rd_spend>78389.47</rd_spend>
+    <administration>153773.43</administration>
+    <marketing_spend>299737.29</marketing_spend>
+    <state>New York</state>
+    <profit>111313.02</profit>
+  </startup>
+  <startup id="23">
+    <rd_spend>73994.56</rd_spend>
+    <administration>122782.75</administration>
+    <marketing_spend>303319.26</marketing_spend>
+    <state>India</state>
+    <profit>110352.25</profit>
+  </startup>
+  <startup id="24">
+    <rd_spend>67532.53</rd_spend>
+    <administration>105751.03</administration>
+    <marketing_spend>304768.73</marketing_spend>
+    <state>India</state>
+    <profit>108733.99</profit>
+  </startup>
+  <startup id="25">
+    <rd_spend>77044.01</rd_spend>
+    <administration>99281.34</administration>
+    <marketing_spend>140574.81</marketing_spend>
+    <state>New York</state>
+    <profit>108552.04</profit>
+  </startup>
+  <startup id="26">
+    <rd_spend>64664.71</rd_spend>
+    <administration>139553.16</administration>
+    <marketing_spend>137962.62</marketing_spend>
+    <state>California</state>
+    <profit>107404.34</profit>
+  </startup>
+  <startup id="27">
+    <rd_spend>75328.87</rd_spend>
+    <administration>144135.98</administration>
+    <marketing_spend>134050.07</marketing_spend>
+    <state>India</state>
+    <profit>105733.54</profit>
+  </startup>
+  <startup id="28">
+    <rd_spend>72107.6</rd_spend>
+    <administration>127864.55</administration>
+    <marketing_spend>353183.81</marketing_spend>
+    <state>New York</state>
+    <profit>105008.31</profit>
+  </startup>
+  <startup id="29">
+    <rd_spend>66051.52</rd_spend>
+    <administration>182645.56</administration>
+    <marketing_spend>118148.2</marketing_spend>
+    <state>India</state>
+    <profit>103282.38</profit>
+  </startup>
+  <startup id="30">
+    <rd_spend>65605.48</rd_spend>
+    <administration>153032.06</administration>
+    <marketing_spend>107138.38</marketing_spend>
+    <state>New York</state>
+    <profit>101004.64</profit>
+  </startup>
+  <startup id="31">
+    <rd_spend>61994.48</rd_spend>
+    <administration>115641.28</administration>
+    <marketing_spend>91131.24</marketing_spend>
+    <state>India</state>
+    <profit>99937.59</profit>
+  </startup>
+  <startup id="32">
+    <rd_spend>61136.38</rd_spend>
+    <administration>152701.92</administration>
+    <marketing_spend>88218.23</marketing_spend>
+    <state>New York</state>
+    <profit>97483.56</profit>
+  </startup>
+  <startup id="33">
+    <rd_spend>63408.86</rd_spend>
+    <administration>129219.61</administration>
+    <marketing_spend>46085.25</marketing_spend>
+    <state>California</state>
+    <profit>97427.84</profit>
+  </startup>
+  <startup id="34">
+    <rd_spend>55493.95</rd_spend>
+    <administration>103057.49</administration>
+    <marketing_spend>214634.81</marketing_spend>
+    <state>India</state>
+    <profit>96778.92</profit>
+  </startup>
+  <startup id="35">
+    <rd_spend>46426.07</rd_spend>
+    <administration>157693.92</administration>
+    <marketing_spend>210797.67</marketing_spend>
+    <state>California</state>
+    <profit>96712.8</profit>
+  </startup>
+  <startup id="36">
+    <rd_spend>46014.02</rd_spend>
+    <administration>85047.44</administration>
+    <marketing_spend>205517.64</marketing_spend>
+    <state>New York</state>
+    <profit>96479.51</profit>
+  </startup>
+  <startup id="37">
+    <rd_spend>28663.76</rd_spend>
+    <administration>127056.21</administration>
+    <marketing_spend>201126.82</marketing_spend>
+    <state>India</state>
+    <profit>90708.19</profit>
+  </startup>
+  <startup id="38">
+    <rd_spend>44069.95</rd_spend>
+    <administration>51283.14</administration>
+    <marketing_spend>197029.42</marketing_spend>
+    <state>California</state>
+    <profit>89949.14</profit>
+  </startup>
+  <startup id="39">
+    <rd_spend>20229.59</rd_spend>
+    <administration>65947.93</administration>
+    <marketing_spend>185265.1</marketing_spend>
+    <state>New York</state>
+    <profit>81229.06</profit>
+  </startup>
+  <startup id="40">
+    <rd_spend>38558.51</rd_spend>
+    <administration>82982.09</administration>
+    <marketing_spend>174999.3</marketing_spend>
+    <state>California</state>
+    <profit>81005.76</profit>
+  </startup>
+  <startup id="41">
+    <rd_spend>28754.33</rd_spend>
+    <administration>118546.05</administration>
+    <marketing_spend>172795.67</marketing_spend>
+    <state>California</state>
+    <profit>78239.91</profit>
+  </startup>
+  <startup id="42">
+    <rd_spend>27892.92</rd_spend>
+    <administration>84710.77</administration>
+    <marketing_spend>164470.71</marketing_spend>
+    <state>India</state>
+    <profit>77798.83</profit>
+  </startup>
+  <startup id="43">
+    <rd_spend>23640.93</rd_spend>
+    <administration>96189.63</administration>
+    <marketing_spend>148001.11</marketing_spend>
+    <state>California</state>
+    <profit>71498.49</profit>
+  </startup>
+  <startup id="44">
+    <rd_spend>15505.73</rd_spend>
+    <administration>127382.3</administration>
+    <marketing_spend>35534.17</marketing_spend>
+    <state>New York</state>
+    <profit>69758.98</profit>
+  </startup>
+  <startup id="45">
+    <rd_spend>22177.74</rd_spend>
+    <administration>154806.14</administration>
+    <marketing_spend>28334.72</marketing_spend>
+    <state>California</state>
+    <profit>65200.33</profit>
+  </startup>
+  <startup id="46">
+    <rd_spend>1000.23</rd_spend>
+    <administration>124153.04</administration>
+    <marketing_spend>1903.93</marketing_spend>
+    <state>New York</state>
+    <profit>64926.08</profit>
+  </startup>
+  <startup id="47">
+    <rd_spend>1315.46</rd_spend>
+    <administration>115816.21</administration>
+    <marketing_spend>297114.46</marketing_spend>
+    <state>India</state>
+    <profit>49490.75</profit>
+  </startup>
+  <startup id="48">
+    <rd_spend>0</rd_spend>
+    <administration>135426.92</administration>
+    <marketing_spend>0</marketing_spend>
+    <state>California</state>
+    <profit>42559.73</profit>
+  </startup>
+  <startup id="49">
+    <rd_spend>542.05</rd_spend>
+    <administration>51743.15</administration>
+    <marketing_spend>0</marketing_spend>
+    <state>New York</state>
+    <profit>35673.41</profit>
+  </startup>
+  <startup id="50">
+    <rd_spend>0</rd_spend>
+    <administration>116983.8</administration>
+    <marketing_spend>45173.06</marketing_spend>
+    <state>California</state>
+    <profit>14681.4</profit>
+  </startup>
+</startups>
