@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="user_behavior_dataset">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="record" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="age" type="xs:nonNegativeInteger" />
+              <xs:element name="app_usage_time_minutes" type="xs:nonNegativeInteger" />
+              <xs:element name="screen_time_hours" type="xs:decimal" />
+              <xs:element name="battery_drain" type="xs:nonNegativeInteger" />
+              <xs:element name="apps_installed" type="xs:nonNegativeInteger" />
+              <xs:element name="data_usage_mb_day" type="xs:nonNegativeInteger" />
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:positiveInteger" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
